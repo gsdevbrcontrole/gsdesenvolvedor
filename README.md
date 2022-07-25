@@ -1,4 +1,3 @@
-- 👋 Olá, eu sou Gabriel Souza, criador de código e conteúdo.
-- 💻 Trabalho com aplicações web (PHP, JS, CSS, HTML e SQL).
-- 📫 Me contrate para projetos: https://gsdesenvolvedor.com.br
-- 🚀 Visite meu blog de tecnologia: https://gabrielsouza.dev.br
+➡ Análise e desenvolvimento.
+➡ Visite o site abaixo para projetos!
+➡ gsdesenvolvedor.com.br
