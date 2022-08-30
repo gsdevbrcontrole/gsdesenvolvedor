@@ -1,5 +1,3 @@
-➡ Análise e desenvolvimento de sistemas.
+Coloque seus produtos e serviços a um clique de distância do seu potencial cliente. 
 
-➡ Visite o site abaixo para projetos!
-
-➡ gsdesenvolvedor.com.br
+Acesse 👉 https://gsdesenvolvedor.com.br
